@@ -1,0 +1,13 @@
+package com.vyavshay.api;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class VyavshayApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(VyavshayApplication.class, args);
+	}
+
+}
